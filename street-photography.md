@@ -18,5 +18,5 @@ Here are some examples of stunning street photography:
 
 ### Tools and Resources
 
-- [Best Cameras for Street Photography](https://www.digitalcameraworld.com/buying-guides/best-cameras-for-street-photography)
+- [Best Cameras for Street Photography](https://www.digitalcameraworld.com/buying-guides/best-camera-for-street-photography)
 - [Editing Tips](https://www.adobe.com/creativecloud/photography.html)
