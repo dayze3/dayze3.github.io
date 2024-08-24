@@ -12,9 +12,9 @@ Street photography captures the essence of urban life, reflecting the culture, e
 
 Here are some examples of stunning street photography:
 
-- ![Photo 1](docs/assets/img/street_photo_1.png)
-- ![Photo 2](docs/assets/img/street_photo_2.jpg)
-- ![Photo 3](docs/assets/img/street_photo_3.png)
+![Photo 1](docs/assets/img/street_photo_1.png)
+![Photo 2](docs/assets/img/street_photo_2.jpg)
+![Photo 3](docs/assets/img/street_photo_3.png)
 
 ### Tools and Resources
 
