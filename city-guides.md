@@ -4,13 +4,13 @@ Explore the best that cities around the world have to offer. From hidden gems to
 
 ## New York City
 
-![New York City](docs/assets/img/images/nyc.png)
+![New York City](docs/assets/img/nyc.png)
 
 Known as the "city that never sleeps," New York offers endless attractions, from the bright lights of Times Square to the serene paths of Central Park. [Check out our full guide](https://www.nycgo.com/).
 
 ## Tokyo
 
-![Tokyo](docs/assets/img/images/tokyo.png)
+![Tokyo](docs/assets/img/tokyo.png)
 
 A city where tradition meets innovation, Tokyo is a bustling metropolis with a unique blend of ancient temples and cutting-edge technology. [Discover Tokyo's neighborhoods](https://www.gotokyo.org/en/).
 
